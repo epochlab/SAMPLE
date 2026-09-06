@@ -1,5 +1,5 @@
 # SAMPLE
 
-Inflation with boundary awareness simulation. PBR rendered using physically correct camera.
+Inflation with boundary awareness simulation.
 
 ![Sample render](sample.png)
